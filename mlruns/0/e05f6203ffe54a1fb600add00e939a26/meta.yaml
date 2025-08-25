@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLops/datascience-project/mlruns/0/e05f6203ffe54a1fb600add00e939a26/artifacts
+end_time: 1756124383950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e05f6203ffe54a1fb600add00e939a26
+run_name: glamorous-grub-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756124373102
+status: 3
+tags: []
+user_id: HP

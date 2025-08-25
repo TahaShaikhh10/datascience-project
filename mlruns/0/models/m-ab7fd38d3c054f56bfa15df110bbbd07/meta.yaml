@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Desktop/MLops/datascience-project/mlruns/0/models/m-ab7fd38d3c054f56bfa15df110bbbd07/artifacts
+creation_timestamp: 1756124373297
+experiment_id: '0'
+last_updated_timestamp: 1756124383933
+model_id: m-ab7fd38d3c054f56bfa15df110bbbd07
+model_type: null
+name: model
+source_run_id: e05f6203ffe54a1fb600add00e939a26
+status: 2
+status_message: null
